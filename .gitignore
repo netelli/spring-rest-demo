@@ -1,0 +1,5 @@
+# Default ignored files
+/spring-rest-demo.iws
+
+# Project exclude paths
+/target/
